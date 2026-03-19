@@ -1,0 +1,32 @@
+Chapter 8: Transport in Plants — Osmosis and Diffusion
+
+8.1 Diffusion
+Diffusion is the movement of molecules from a region of higher concentration to a region of lower concentration. This movement continues until the concentration becomes equal on both sides — a state called dynamic equilibrium. Diffusion is a passive process, meaning it does not require any energy (ATP).
+
+Examples of diffusion: When you spray perfume in one corner of a room, the smell eventually spreads throughout the room. This is diffusion of perfume molecules in air.
+
+In plants, carbon dioxide (CO2) enters leaves through tiny pores called stomata by diffusion. Oxygen produced during photosynthesis also exits through stomata by diffusion.
+
+8.2 Osmosis
+Osmosis is a special type of diffusion. It is the movement of water molecules from a region of higher water concentration (dilute solution) to a region of lower water concentration (concentrated solution) through a semi-permeable membrane.
+
+A semi-permeable membrane is a membrane that allows only certain molecules to pass through it — in this case, water molecules can pass but dissolved solutes (like salt or sugar) cannot.
+
+The pressure that develops due to osmosis is called osmotic pressure. The more concentrated the solution, the higher its osmotic pressure.
+
+8.3 Types of Solutions
+Hypotonic Solution: A solution that has lower solute concentration than the cell. When a cell is placed in a hypotonic solution, water enters the cell by osmosis. The cell swells up. In plant cells, this is called a turgid state — the cell wall prevents bursting. Turgor pressure helps plants stay upright.
+
+Hypertonic Solution: A solution that has higher solute concentration than the cell. When a cell is placed in a hypertonic solution, water leaves the cell. The cell shrinks. In plant cells, this is called plasmolysis — the cell membrane pulls away from the cell wall. This is why plants wilt when overwatered with salt water.
+
+Isotonic Solution: A solution that has equal solute concentration as the cell. No net movement of water occurs. Cells maintain their normal shape.
+
+8.4 Importance of Osmosis in Plants
+Water absorption by roots: Root hair cells have higher solute concentration than the soil water. So water enters root hair cells by osmosis. This is how plants absorb water from the soil.
+
+Cell to cell movement: Water moves from cell to cell by osmosis, from cells with higher water concentration to cells with lower water concentration — this creates a gradient that helps move water upward through the plant.
+
+Stomatal opening: Guard cells become turgid (fill with water by osmosis) to open the stomata. When they lose water, they become flaccid and stomata close.
+
+8.5 Plasmolysis
+When a plant cell is kept in a hypertonic solution, it loses water. The protoplasm (living content) shrinks and pulls away from the cell wall. This is called plasmolysis. A plasmolysed cell appears to have a gap between the cell membrane and the cell wall. This process is reversible — when placed back in water, the cell regains its turgidity through osmosis (deplasmolysis).
